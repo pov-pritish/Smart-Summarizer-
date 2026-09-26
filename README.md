@@ -5,7 +5,7 @@ any pasted text — or a `.txt` / `.docx` file — into a short, readable summar
 AI can also be used simply by adding an api key, else it uses built in logic.
 Built with **Streamlit** and the **Gemini API**.
 
-**Live demo:** _add your deployed Streamlit Cloud link here after deploying_
+**Live demo:** https://smart-summarize.streamlit.app
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)

@@ -1,7 +1,8 @@
 # ✨ Text or Email Summarizer
 
-A clean, professional AI-powered web app that summarizes long emails, articles, or
+A clean, professional web app that summarizes long emails, articles, or
 any pasted text — or a `.txt` / `.docx` file — into a short, readable summary.
+AI can also be used simply by adding an api key, else it uses built in logic.
 Built with **Streamlit** and the **Gemini API**.
 
 **Live demo:** _add your deployed Streamlit Cloud link here after deploying_
